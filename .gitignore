@@ -1,0 +1,8 @@
+# Processed files
+data/processed/*.csv
+
+# Raw files
+data/raw/*.sql
+
+# Output files
+output/*.tab

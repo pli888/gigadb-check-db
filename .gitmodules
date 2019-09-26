@@ -1,0 +1,4 @@
+
+[submodule "sikfaan"]
+	path = sikfaan
+	url = https://github.com/pli888/sikfaan.git
